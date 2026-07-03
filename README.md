@@ -2,7 +2,6 @@
 
 Bu proje, akciğer röntgen görüntüsünü analiz ederek görüntüyü **Normal** veya **Zatürre** olarak sınıflandıran CNN tabanlı bir karar destek prototipidir.
 
-> Uyarı: Bu sistem klinik tanı koymaz. Eğitim amaçlı karar destek prototipidir.
 
 ## Klasör Yapısı
 
@@ -73,6 +72,4 @@ streamlit run app.py
 
 Tarayıcıda açılan ekrandan röntgen görüntüsü yüklenir. Sistem sonucu **Normal** veya **Zatürre** olarak gösterir.
 
-## 5) GitHub Notu
 
-GitHub'a kodları, raporu ve küçük görselleri yükle. Büyük veri setini ve büyük `model.h5` dosyasını GitHub'a yükleme. Model dosyası gerekiyorsa Google Drive üzerinden paylaşılabilir.
